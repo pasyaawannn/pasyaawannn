@@ -1,4 +1,4 @@
-<h1 align="center">✨ Pasya — Code, Create, Inspire ✨</h1>
+<h1 align="center">✨ Pasya Awan Rizky Saputro ✨</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=6C63FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Learning+Web+Development;Coding+with+Creativity;Always+Growing+%F0%9F%8C%B1">
@@ -7,10 +7,10 @@
 ---
 
 ## 🌙 About Me
-- 💻 Mahasiswa yang suka ngoding & bikin project kecil  
-- 🎨 Senang desain, eksperimen UI, dan bikin hal yang aesthetic  
-- 🚀 Sedang mendalami Web Dev & Backend  
-- ☕ Selalu ditemani kopi saat ngoding  
+- 💻 Mahasiswa yang suka ngoding & bikin project tipis - tipis.
+- 🎨 Senang desain, eksperimen UI, dan bikin hal yang aesthetic.  
+- 🚀 Sedang mendalami Web Dev & Backend.  
+- ☕ Selalu ditemani LA Ice dan kopi saat ngoding  
 
 ---
 
