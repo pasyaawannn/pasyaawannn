@@ -1,40 +1,62 @@
-<!-- HEADER -->
-<h1 align="center">🤖 Pasya — Modern AI Enthusiast</h1>
+<h1 align="center">✨ Pasya — Code, Create, Inspire ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00E5FF&center=true&vCenter=true&width=600&lines=AI+Driven+Mindset;Future-Tech+Learner;Building+Code+With+Precision;Welcome+to+my+Digital+Space" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=6C63FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Learning+Web+Development;Coding+with+Creativity;Always+Growing+%F0%9F%8C%B1">
 </p>
 
 ---
 
-## ⚡ About Me
-I'm passionate about **AI, automation**, and building digital tools that make life simpler.  
-Currently exploring:
-- 🤖 Machine Learning basics  
-- 🌐 Web Development  
-- 🧠 AI tools & prompt engineering  
-- ⚙ Backend logic & database systems  
+## 🌙 About Me
+- 💻 Mahasiswa yang suka ngoding & bikin project kecil  
+- 🎨 Senang desain, eksperimen UI, dan bikin hal yang aesthetic  
+- 🚀 Sedang mendalami Web Dev & Backend  
+- ☕ Selalu ditemani kopi saat ngoding  
 
 ---
 
-## 🧬 Tech Stack (AI Modern)
+## 🛠 Tech Stack
 <div align="center">
-
-| Core | AI Tools | Dev Tools |
-|------|----------|-----------|
-| HTML • CSS • JS | Python AI libs (beginner) | Git • GitHub |
-| PHP • Node.js   | Basic ML concepts          | Figma • Canva |
-| MySQL • Apache  | Data Processing            | Vercel Deploy |
+  
+| Frontend | Backend | Tools |
+|---------|---------|-------|
+| HTML • CSS • JS | PHP • Python • Node.js | Git • GitHub • Figma |
+| Bootstrap • Tailwind | MySQL • Apache | Canva • Vercel |
 
 </div>
 
 ---
 
-## 🧠 AI Status Panel
+## 📊 GitHub Stats
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pasyaawannn&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=pasyaawannn&theme=tokyonight&hide_border=true" height="150"/>
+
+</div>
+
+---
+
+## 🎧 Currently Vibing To
 <div align="center">
   
-```diff
-+ Cognitive Engine: Active  
-+ Neural Threads: Responsive  
-! Processing New Skills...  
-# System Mode: Learning & Evolving  
+![Spotify](https://novatorem-nu-six.vercel.app/api/spotify)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+<a href="https://www.facebook.com/share/1AnVYnw8UD/"><img height="40" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://instagram.com/pasya_arsss"><img height="40" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://youtube.com/@pasyagaming46"><img height="40" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://www.tiktok.com/@sya_finance"><img height="40" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=pasyaawannn&label=Profile%20Views&color=6C63FF&icon=5&pretty=true" />
+</p>
+
+---
