@@ -1,4 +1,4 @@
-<img width="880" height="495" alt="image" src="https://github.com/user-attachments/assets/75a16eb1-6708-4575-8e82-82bdd5eb548a" /><h1 align="center">✨ Pasya Awan Rizky Saputro ✨</h1>
+<h1 align="center">✨ Pasya Awan Rizky Saputro ✨</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=6C63FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Learning+Web+Development;Coding+with+Creativity;Always+Growing+%F0%9F%8C%B1">
@@ -56,7 +56,7 @@
 ---
 
 <p align="center">
-  <img src="h<img width="2558" height="1417" alt="image" src="https://github.com/user-attachments/assets/264a5729-4d27-428a-9986-cf6cf4d7efcc" />
+  <img src="img width="2558" height="1417" alt="image" src="https://github.com/user-attachments/assets/264a5729-4d27-428a-9986-cf6cf4d7efcc" />
 " />
 </p>
 
