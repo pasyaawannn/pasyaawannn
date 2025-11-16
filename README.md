@@ -56,7 +56,7 @@
 ---
 
 <p align="center">
-  <img src="img width="2558" height="1417" alt="image" src="https://github.com/user-attachments/assets/264a5729-4d27-428a-9986-cf6cf4d7efcc"/>
+  <img src="https://github.com/pasyaawannn/pasyaawannn/blob/main/tr.jpg"/>
 </p>
 
 ---
