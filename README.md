@@ -54,7 +54,7 @@
 </p>
 
 ---
-
+## ✈️ Mengejar Kebebasan Finansial.
 <p align="center">
   <img src="https://github.com/pasyaawannn/pasyaawannn/blob/main/tr.jpg"/>
 </p>
