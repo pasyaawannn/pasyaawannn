@@ -30,7 +30,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=pasyaawannn&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=pasyaawannn&theme=tokyonight&hide_border=true" height="150"/>
+
 
 </div>
 
