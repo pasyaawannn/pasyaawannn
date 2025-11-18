@@ -26,16 +26,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pasyaawannn&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-
-
-</div>
-
----
-
 ## 🎧 Currently Vibing To
 <div align="center">
   
