@@ -22,6 +22,10 @@
 | HTML • CSS • JS | PHP • Python • Node.js | Git • GitHub • Figma |
 | Bootstrap • Tailwind | MySQL • Apache | Canva • Vercel |
 
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+</p>
+
 </div>
 
 ---
