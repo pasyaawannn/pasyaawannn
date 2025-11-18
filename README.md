@@ -24,6 +24,7 @@
 </p>
 
 <div align="center">
+  
 | Frontend | Backend | Tools |
 |---------|---------|-------|
 | HTML • CSS • JS | PHP • Python • Node.js | Git • GitHub • Figma |
