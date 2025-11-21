@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠 Tech Stack ∀
+## 🛠 Tech Stack 
 <p align="center">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -68,7 +68,7 @@
 </p>
 
 ---
-## ✈️ Ada seorang anak muda yang berambisi mencapai Kebebasan Finansial.
+## ✈️ Ada seorang anak muda yang berambisi mencapai Kebebasan Finansial ∀.
 - Alasan saya menempatkan Timothy Ronald sebagai sosok yang saya ikuti sederhana: ia berpikir jernih, berhitung dengan logika, dan selalu berbicara berdasarkan fakta. Tidak ada sensasi, tidak ada opini kosong. Gaya komunikasinya tegas, terarah, dan langsung pada inti masalah. Itu yang membuat saya yakin bahwa kontennya layak saya dukung dan jadikan acuan.
 <p align="center">
   <img src="https://github.com/pasyaawannn/pasyaawannn/blob/main/tr.jpg"/>
