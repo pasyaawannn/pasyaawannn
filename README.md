@@ -65,7 +65,7 @@
 <a href="https://instagram.com/pasya_arsss"><img height="40" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://youtube.com/@pasyagaming46"><img height="40" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://www.tiktok.com/@sya_finance"><img height="40" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
-<a href"https://www.blogger.com/@pasyaawanr"><img height="40" src="https://img.shields.io/badge/Blogger-F59827?style=for-the-badge&logo=blogger&logoColor=white"></a>  
+<a href"https://pasyaawanr-blog.blogspot.com"><img height="40" src="https://img.shields.io/badge/Blogger-F59827?style=for-the-badge&logo=blogger&logoColor=white"></a>  
 </p>
 
 ---
