@@ -11,7 +11,7 @@
 - 🎨 Senang desain, eksperimen UI, dan bikin hal yang aesthetic.  
 - 🚀 Sedang mendalami Web Dev & Backend.  
 - ☕ Selalu ditemani LA Ice dan kopi saat ngoding
-- 🌐 pasyastore.netlify.app
+- 🌐 <a href="pasyastore.netlify.app">Pasya Store</a>
 
 ---
 
