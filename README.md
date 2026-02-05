@@ -75,8 +75,5 @@
 <p align="center">
   <img src="https://github.com/pasyaawannn/pasyaawannn/blob/main/tr.jpg"/>
 </p>
-<p align="center">
-  <img src="https://github.com/pasyaawannn/pasyaawannn/blob/main/timothy.mp4"/>
-</p>
 
 ---
