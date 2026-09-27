@@ -10,7 +10,7 @@
 - 💻 Mahasiswa yang suka ngoding & bikin project tipis - tipis.
 - 🎨 Senang desain, eksperimen UI, dan bikin hal yang aesthetic.  
 - 🚀 Sedang mendalami Web Dev & Backend.  
-- ☕ Selalu ditemani LA Ice dan kopi saat ngoding
+- ☕ Selalu ditemani kopi saat ngoding
 
 ---
 
